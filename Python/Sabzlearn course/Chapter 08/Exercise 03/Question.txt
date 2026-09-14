@@ -1,0 +1,3 @@
+Create a Python package named "data_analysis" containing a module named "statistics." 
+The module should include functions to calculate the mean, median, and standard deviation of a list of numbers. 
+Then, create another program that imports this module and performs these statistical calculations on a list of numbers provided by the user.
