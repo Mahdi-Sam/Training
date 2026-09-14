@@ -1,0 +1,4 @@
+Create a Python package named "shapes" containing two modules: "circle" and "rectangle". 
+Each module should include functions to calculate the area and perimeter of the respective shape. 
+Then, create another program that imports these modules and calculates the area 
+and perimeter of a circle and a rectangle using values ​​provided by the user.
